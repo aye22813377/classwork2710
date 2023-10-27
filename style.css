@@ -1,0 +1,25 @@
+*{
+    padding:10px
+}
+table{
+    width: 400px;
+    border:2px solid;   
+    border-collapse: collapse;
+}
+.head{
+color:white;
+background-color: rgb(76, 155, 129);
+}
+.swap{
+background-color: lightgray;
+color:rgb(45, 180, 135);
+}
+tr{
+    margin: 0;
+    border:1px solid gray; 
+
+}
+td{
+    margin: 0;
+
+}

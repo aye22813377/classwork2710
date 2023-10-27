@@ -1,0 +1,20 @@
+*{
+    padding:10px
+}
+table{
+    width: 400px;
+    border:2px solid;   
+    border-collapse: collapse;
+}
+tr{
+    margin: 0;
+    height: 20px;
+    border:1px solid rgb(0, 0, 0); 
+
+}
+td{
+    height: 20px;
+    margin: 0;
+    border:1px solid rgb(0, 0, 0); 
+
+}
